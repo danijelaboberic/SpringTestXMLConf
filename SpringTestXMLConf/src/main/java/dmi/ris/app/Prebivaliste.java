@@ -1,4 +1,4 @@
-package app;
+package dmi.ris.app;
 
 public class Prebivaliste extends Adresa {
 	public Prebivaliste(String ulica, int broj) {

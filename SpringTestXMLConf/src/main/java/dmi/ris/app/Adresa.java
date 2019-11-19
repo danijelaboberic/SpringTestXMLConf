@@ -1,4 +1,4 @@
-package app;
+package dmi.ris.app;
 
 abstract public class Adresa {
 	String ulica;

@@ -1,4 +1,4 @@
-package app;
+package dmi.ris.app;
 
 
 public class Boraviste extends Adresa {

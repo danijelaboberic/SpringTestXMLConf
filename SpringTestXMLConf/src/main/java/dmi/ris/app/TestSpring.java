@@ -1,5 +1,4 @@
-package app;
-
+package dmi.ris.app;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.FileSystemXmlApplicationContext;
 
